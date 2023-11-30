@@ -20,8 +20,8 @@
 
         <!-- Mapeamento das Entidades -->
        <mapping class="poo.model.Pessoa"/>
-       <mapping class="poo.model.Cliente"/>
-    <mapping class="poo.model.Funcionario"/>
+        <mapping class="poo.model.Cliente"/>
+        <mapping class="poo.model.Funcionario"/>    
         
     </session-factory>
 </hibernate-configuration>
